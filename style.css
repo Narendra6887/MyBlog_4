@@ -1,0 +1,121 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#hobby {
+    padding-top: 70px;
+    padding-bottom: 25px;
+    background: linear-gradient(45deg, red, blue);
+}
+
+.navi {
+    margin: 0px;
+    text-align: center;
+    background: #fff;
+    position: fixed;
+    text-decoration: none;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    font-size: 24;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    text-decoration: none;
+    font-family: 'Sigmar One', cursive;
+    margin: 8px auto;
+}
+
+.link:hover {
+    font-size: 27;
+    text-decoration: none;
+    text-shadow: 0px 0px 10px crimson;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 10px;
+}
+
+.Bword {
+    font-family: 'Limelight', cursive;
+}
+
+span {
+    color: blue;
+    text-shadow: 0px 0px 10px blue;
+}
+
+.line {
+    width: 70px;
+    height: 5px;
+    background-color: black;
+    margin: 8px auto;
+    border-radius: 25px;
+}
+
+.par {
+    font-size: 30px;
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.3;
+    font-family: 'Odibee Sans', cursive;
+}
+
+lottie-player {
+    margin: auto;
+}
+
+#Work img {
+    width: 300px;
+    height: 300px;
+}
+
+#Work h3 {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Odibee Sans', cursive;
+    color: blueviolet;
+    text-shadow: 0px 0px 10px blueviolet;
+}
+
+#myCarousel img {
+    transition: transform .2s;
+    width: 250px;
+}
+
+#myCarousel img:hover {
+    transform: scale(0.9);
+}
+
+#myCarousel2 img {
+    transition: transform .2s;
+    width: 250px;
+}
+
+#myCarousel2 img:hover {
+    transform: scale(0.9);
+}
+
+p {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Odibee Sans', cursive;
+    color: blueviolet;
+    text-shadow: 0px 0px 10px blueviolet;
+}
